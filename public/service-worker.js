@@ -4,9 +4,14 @@ const FILES_TO_CACHE = [
   "/",
   "/index.html",
   "/styles.css",
-  "/index.js",
-  "/icons/icon-192x192.png",
-  "/icons/icon-512x512.png"
+  "/dist/bundle.js",
+  "/dist/manifest.json",
+  "/dist/icon-96x96.png",
+  "/dist/icon-128x128.png",
+  "/dist/icon-192x192.png",
+  "/dist/icon-256x256.png",
+  "/dist/icon-384x384.png",
+  "/dist/icon-512x512.png"
 ];
 
 // install
