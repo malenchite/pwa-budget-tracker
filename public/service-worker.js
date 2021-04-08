@@ -3,7 +3,7 @@ const DATA_CACHE_NAME = "data-cache-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "/styles.css",
+  "/assets/css/styles.css",
   "/dist/bundle.js",
   "/dist/manifest.json",
   "/dist/icon_96x96.png",
