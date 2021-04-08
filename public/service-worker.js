@@ -11,7 +11,8 @@ const FILES_TO_CACHE = [
   "/dist/icon_192x192.png",
   "/dist/icon_256x256.png",
   "/dist/icon_384x384.png",
-  "/dist/icon_512x512.png"
+  "/dist/icon_512x512.png",
+  "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
 ];
 
 // install
