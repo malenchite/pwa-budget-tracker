@@ -6,12 +6,12 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/dist/bundle.js",
   "/dist/manifest.json",
-  "/dist/icon-96x96.png",
-  "/dist/icon-128x128.png",
-  "/dist/icon-192x192.png",
-  "/dist/icon-256x256.png",
-  "/dist/icon-384x384.png",
-  "/dist/icon-512x512.png"
+  "/dist/icon_96x96.png",
+  "/dist/icon_128x128.png",
+  "/dist/icon_192x192.png",
+  "/dist/icon_256x256.png",
+  "/dist/icon_384x384.png",
+  "/dist/icon_512x512.png"
 ];
 
 // install
