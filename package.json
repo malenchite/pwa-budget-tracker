@@ -1,23 +1,20 @@
 {
-  "name": "budget-app",
+  "name": "pwa-budget-tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "lite-server": "lite-server",
-    "build": "webpack"
+    "build": "webpack",
+    "heroku-postbuild": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/malenchite/pwa-budget-tracker.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
-  },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/malenchite/pwa-budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
